@@ -1,0 +1,6 @@
+{
+  "name": "DukaanDhan",
+  "description": "Financial guidance and banking assistance platform for small shopkeepers, kirana owners, vendors, and tailors in Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
